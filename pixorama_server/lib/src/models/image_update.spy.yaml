@@ -1,0 +1,6 @@
+# lib/src/models/image_update.spy.yaml
+
+class: ImageUpdate
+fields:
+  pixelIndex: int
+  colorIndex: int
